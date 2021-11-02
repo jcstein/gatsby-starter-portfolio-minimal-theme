@@ -2,43 +2,43 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "💎 NFT Minting",
+      "title": "Build a Web3 App: Mint Your Own NFT collection | Cohort Deneb | #51",
+      "description": "This project is a Web3 dApp that allows users to login with their Ethereum wallet on the Rinkeby test network and Mint their own NFT from a randomly-generated collection inspired by Lattice Supply. Limited edition set of 42.",
+      "tags": ["NFTs + Minting", "Solidity + Ethereum Smart Contracts"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/Lattice-Supply-NFTs-Preview.png",
         "alt": "Quick Setup"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/jcstein"
+          "url": "https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/2149"
         },
         {
           "type": "external",
-          "url": "https://linkedin.com/in/joshcstein"
+          "url": "https://lattice-supply.jcstein.repl.co"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "📱 Web3",
+      "title": "Web3 App with Solidity + Ethereum Smart Contracts",
+      "description": "I wrote and deployed my first-ever Smart Contract to the ETH Blockchain and built a Web3 client dApp to interact with the contract 😄 I decided to make a 'Veggie Portal' where you can submit your favorite fruit or vegetable!",
+      "tags": ["Web3", "Solidity", "Ethereum", "Smart Contracts"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/Veggie-Portal.png",
         "alt": "Quick Setup"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/jcstein"
+          "url": "https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/1984"
         },
         {
           "type": "external",
-          "url": "https://linkedin.com/in/joshcstein"
+          "url": "https://veggie-portal.jcstein.repl.co"
         }
       ]
     },
