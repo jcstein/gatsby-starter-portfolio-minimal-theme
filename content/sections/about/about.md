@@ -1,14 +1,10 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
+imageSrc: "../../images/jcs.png"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+🎓 I completed my Bachelor of Science in Business concentrating in Supply Chain Management and Analytics from VCU's School of Business and a Minor of Mathematics in May 2021.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+🥬  What am I passionate about? Reducing food waste to preserve our home planet and ensure every person can eat the meals they need to survive on it.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Logo by <a href="https://behance.com/joshuastein" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Josh Stein</u></a> on Behance

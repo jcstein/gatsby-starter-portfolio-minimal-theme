@@ -1,23 +1,23 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
+    "siteUrl": "https://jcstein.dev",
+    "title": "jcs.sol | by Josh Stein",
+    "titleTemplate": "%s",
+    "description": "Hi, I specialize in lightweight, functional web design. I'm currently building web experiences that are designed to reduce waste and help people around the globe.",
+    "author": "Josh Stein aka jcs.sol",
+    "avatar": "../content/images/jcs.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "behance": "https://behance.com/joshuastein",
+      "github": "https://github.com/jcstein",
+      "medium": "https://medium.com/@jcstein",
+      "linkedin": "https://www.linkedin.com/in/joshcstein/",
+      "mail": "mailto:mail@jcstein.dev"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "jcs.sol" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
@@ -28,11 +28,10 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/Josh_Stein_Resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "Privacy", "url": "/privacy" }
       ]
     },
     "featureToggles": {

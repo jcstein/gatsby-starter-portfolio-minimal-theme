@@ -1,18 +1,18 @@
 {
-  "intro": "Hej",
+  "intro": "Hello",
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Josh, thanks for stopping by!",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "I am learning to build lightweight and functional ",
+    "highlight": "Web3 experiences",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "I'm a co-founder and full-stack entrepreneur for non-profits, restaurants and start-ups to establish their brands in the digital and physical spaces.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Medium", "Github", "Mail", "Behance"],
     "showIcons": false
   }
 }

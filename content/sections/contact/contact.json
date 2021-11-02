@@ -1,10 +1,10 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
-  "email": "example@mail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "name": "jcs.sol | by Josh Stein",
+  "email": "mail@jcstein.dev",
+  "description": "Please contact me if you would like to work together or have any questions about my projects.",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/jcs.png",
+    "alt": "jcs.sol"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],

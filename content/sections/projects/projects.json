@@ -13,28 +13,121 @@
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/jcstein"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://linkedin.com/in/joshcstein"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "🕹️ EASY AND QUICK SETUP",
+      "title": "Add content and deploy!",
+      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
+      "tags": ["Content Integration", "Ready-2-Deploy"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Quick Setup"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/jcstein"
+        },
+        {
+          "type": "external",
+          "url": "https://linkedin.com/in/joshcstein"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🚐 Brand Exploration",
+      "title": "Sequoia Vans",
+      "description": "Created logo and branding. Developed website and progressive web-application in English and German.",
+      "tags": ["Product Design", "Brand Design", "Multi-Lingual Design"],
+      "image": {
+        "src": "../../images/sequoia-vans.jpg",
+        "alt": "Sequoia Vans"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/jcstein/sequoia-vans"
+        },
+        {
+          "type": "external",
+          "url": "https://sequoiavans.gatsbyjs.io"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🥬 Volunteer",
+      "title": "Project Restore Us",
+      "description": "Helped build online presence with SEO, streamlined data collection and designed first logo and branding. Implemented Salesforce and livestream fundraising technology to help deliver 500,000 pounds of culturally-appropriate groceries to feed essential worker families through the redistribution of existing commercial food supply chains.",
+      "tags": ["Web Development", "Salesforce Integration"],
+      "image": {
+        "src": "../../images/pru.png",
+        "alt": "Project Restore Us"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://projectrestoreus.org"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "♻️ Co-Founder & Web Designer",
+      "title": "Lattice Supply",
+      "description": "Built eCommerce store and digital presence for a collective of artisans and makers based in Richmond, Virginia specializing in hand-crafted jewelry made from recycled materials - most notably from recycled skateboards. Our makers value unique and practical designs created in a sustainable manner.",
+      "tags": ["Sustainability Design", "Business Development", "E-Commerce"],
+      "image": {
+        "src": "../../images/JCS09043.jpg",
+        "alt": "Lattice Supply by Josh Stein"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://lattice.supply"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🕹️ Regional Manager",
+      "title": "The Pit & The Peel",
+      "description": "Re-engineered restaurant operations and establish standards for franchising to reduced ticket times by 80%. Developed new menu for three stores in order to standardize supply chain and operations. Contracted designer for a website re-design to fit modern-day business marketing strategies.",
+      "tags": ["Operations Management", "Restaurant Management"],
+      "image": {
+        "src": "../../images/pitpeel.png",
+        "alt": "The Pit & The Peel"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "http://thepitandthepeel.com"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "📊 Internship",
+      "title": "Environmental Protection Agency",
+      "description": "Consolidated technical research, analysis & other policy-related assignments to a team of lawyers & engineers on complex regulatory matters involving the Clean Air Act and other statutes & regulations. Office of Enforcement and Compliance Assurance, Office of Civil Enforcement, Air Enforcement Division, Mobile Source Enforcement Branch.",
+      "tags": ["Engineering", "Sustainability"],
+      "image": {
+        "src": "../../images/JCS04879.jpg",
+        "alt": "Colorado by Josh Stein"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://www.epa.gov/enforcement/national-compliance-initiative-stopping-aftermarket-defeat-devices-vehicles-and-engines"
         }
       ]
     }
@@ -42,6 +135,6 @@
   "button": {
     "visible": true,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://github.com/jcstein"
   }
 }
